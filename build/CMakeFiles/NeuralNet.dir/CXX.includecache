@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/usableLib.cpp
+usableLib.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/usableLib.h
+stdlib.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/stdlib.h
+stdio.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/stdio.h
+stdint.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/stdint.h
+string.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/string.h
+iostream
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/iostream
+math.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/math.h
+cmath
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/cmath
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/usableLib.h
+stdlib.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/stdlib.h
+stdio.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/stdio.h
+stdint.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/stdint.h
+string.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/string.h
+iostream
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/iostream
+

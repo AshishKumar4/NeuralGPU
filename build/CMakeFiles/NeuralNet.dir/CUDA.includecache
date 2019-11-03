@@ -1,0 +1,210 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/Neuron.cu
+cuda_runtime.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/cuda_runtime.h
+device_launch_parameters.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/device_launch_parameters.h
+thrust/device_vector.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/device_vector.h
+thrust/host_vector.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/host_vector.h
+thrust/random/normal_distribution.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/random/normal_distribution.h
+thrust/random/linear_congruential_engine.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/random/linear_congruential_engine.h
+sm_35_atomic_functions.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/sm_35_atomic_functions.h
+stdio.h
+-
+iostream
+-
+vector
+-
+usableLib.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/usableLib.h
+Neuron.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/Neuron.h
+threads.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/threads.h
+algorithm
+-
+random
+-
+chrono
+-
+fstream
+-
+cstdlib
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/cstdlib
+functional
+-
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/Neuron.h
+cuda_runtime.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/cuda_runtime.h
+device_launch_parameters.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/device_launch_parameters.h
+thrust/device_vector.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/device_vector.h
+thrust/host_vector.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/host_vector.h
+thrust/random/normal_distribution.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/random/normal_distribution.h
+thrust/random/linear_congruential_engine.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/random/linear_congruential_engine.h
+sm_35_atomic_functions.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/sm_35_atomic_functions.h
+stdio.h
+-
+iostream
+-
+vector
+-
+random
+-
+threads.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/threads.h
+usableLib.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/usableLib.h
+idx.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/idx.h
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/dot_adder.cu
+cuda_runtime.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/cuda_runtime.h
+device_launch_parameters.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/device_launch_parameters.h
+stdio.h
+-
+iostream
+-
+vector
+-
+dot_adder.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/dot_adder.h
+usableLib.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/usableLib.h
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/dot_adder.h
+cuda_runtime.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/cuda_runtime.h
+device_launch_parameters.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/device_launch_parameters.h
+usableLib.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/usableLib.h
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/idx.cu
+fstream
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/fstream
+iostream
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/iostream
+string.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/string.h
+usableLib.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/usableLib.h
+idx.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/idx.h
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/idx.h
+fstream
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/fstream
+iostream
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/iostream
+string.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/string.h
+usableLib.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/usableLib.h
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/kernel.cu
+cuda_runtime.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/cuda_runtime.h
+device_launch_parameters.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/device_launch_parameters.h
+thrust/device_vector.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/device_vector.h
+thrust/host_vector.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/host_vector.h
+thrust/random/normal_distribution.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/random/normal_distribution.h
+thrust/random/linear_congruential_engine.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/random/linear_congruential_engine.h
+sm_35_atomic_functions.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/sm_35_atomic_functions.h
+stdio.h
+-
+iostream
+-
+vector
+-
+algorithm
+-
+random
+-
+idx.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/idx.h
+Neuron.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/Neuron.h
+threads.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/threads.h
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/threads.cu
+cuda_runtime.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/cuda_runtime.h
+device_launch_parameters.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/device_launch_parameters.h
+thrust/device_vector.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/device_vector.h
+thrust/host_vector.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/host_vector.h
+thrust/random/normal_distribution.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/random/normal_distribution.h
+thrust/random/linear_congruential_engine.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/random/linear_congruential_engine.h
+sm_35_atomic_functions.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/sm_35_atomic_functions.h
+stdio.h
+-
+iostream
+-
+vector
+-
+idx.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/idx.h
+Neuron.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/Neuron.h
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/threads.h
+cuda_runtime.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/cuda_runtime.h
+device_launch_parameters.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/device_launch_parameters.h
+thrust/device_vector.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/device_vector.h
+thrust/host_vector.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/thrust/host_vector.h
+sm_35_atomic_functions.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/sm_35_atomic_functions.h
+idx.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/idx.h
+Neuron.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/Neuron.h
+
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/usableLib.h
+stdlib.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/stdlib.h
+stdio.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/stdio.h
+stdint.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/stdint.h
+string.h
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/string.h
+iostream
+/home/shruti/Desktop/PDC/FNN Test Beds CUDA/FNN Test Beds CUDA/iostream
+

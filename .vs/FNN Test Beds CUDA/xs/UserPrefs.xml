@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="Run">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FNN Test Beds CUDA/threads.cu">
+    <Files>
+      <File FileName="FNN Test Beds CUDA/kernel.cu" Line="15" Column="12" />
+      <File FileName="FNN Test Beds CUDA/Neuron.cu" Line="16" Column="12" />
+      <File FileName="FNN Test Beds CUDA/Neuron.h" Line="1" Column="1" />
+      <File FileName="FNN Test Beds CUDA/threads.cu" Line="1" Column="1" />
+      <File FileName="FNN Test Beds CUDA/threads.h" Line="11" Column="12" />
+      <File FileName="FNN Test Beds CUDA/usableLib.h" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FNN Test Beds CUDA" expanded="True">
+            <Node name="FNN Test Beds CUDA" expanded="True">
+              <Node name="threads.cu" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Run" Name="Run" />
+  </MultiItemStartupConfigurations>
+</Properties>

@@ -1,0 +1,33 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/shruti/Desktop/PDC/FNN Test Beds CUDA/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_611d9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_611d9.dir/build.make CMakeFiles/cmTC_611d9.dir/build
+make[1]: Entering directory '/home/shruti/Desktop/PDC/FNN Test Beds CUDA/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_611d9.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_611d9.dir/CheckSymbolExists.cxx.o -c "/home/shruti/Desktop/PDC/FNN Test Beds CUDA/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx"
+Linking CXX executable cmTC_611d9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_611d9.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_611d9.dir/CheckSymbolExists.cxx.o  -o cmTC_611d9 
+/usr/bin/ld: CMakeFiles/cmTC_611d9.dir/CheckSymbolExists.cxx.o: in function `main':
+CheckSymbolExists.cxx:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_611d9.dir/build.make:87: cmTC_611d9] Error 1
+make[1]: Leaving directory '/home/shruti/Desktop/PDC/FNN Test Beds CUDA/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_611d9/fast] Error 2
+
+File /home/shruti/Desktop/PDC/FNN Test Beds CUDA/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
